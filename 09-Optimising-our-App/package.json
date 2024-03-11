@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "react-js by Suvendu",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvenduweb/learn-react-js.git"
+  },
+  "author": "Suvendu bhowmik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvenduweb/learn-react-js/issues"
+  },
+  "homepage": "https://github.com/suvenduweb/learn-react-js#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
